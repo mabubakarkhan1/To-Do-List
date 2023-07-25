@@ -91,3 +91,10 @@ input{
     color: #fff;
 
 }
+.empty-btn, .empty-btn:active{
+    background-color: #9e0f0f;
+    color: #fff;
+}
+.empty-btn:hover{
+    background-color: #700c0c;
+}
